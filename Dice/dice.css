@@ -1,0 +1,29 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+img {
+    width: 50%;
+}
+body {
+    background-color: rgb(218, 202, 202);
+    margin: 0;
+}
+button{
+    background-color: rgb(163, 61, 61);
+    margin-left: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding: 6px 5px 6px 5px;
+    cursor: pointer;
+    
+       
+}
